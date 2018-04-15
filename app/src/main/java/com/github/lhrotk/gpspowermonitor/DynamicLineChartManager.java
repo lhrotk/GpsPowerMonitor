@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by sherry on 2018/3/29.
+ * Created by lhrotk on 2018/3/29.
  */
 
 public class DynamicLineChartManager {

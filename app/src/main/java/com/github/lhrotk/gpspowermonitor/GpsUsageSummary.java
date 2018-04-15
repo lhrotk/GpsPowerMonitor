@@ -3,7 +3,7 @@ package com.github.lhrotk.gpspowermonitor;
 import java.util.ArrayList;
 
 /**
- * Created by sherry on 2018/3/27.
+ * Created by lhrotk on 2018/3/27.
  */
 
 public class GpsUsageSummary {

@@ -17,7 +17,7 @@ import org.w3c.dom.Text;
 import java.util.List;
 
 /**
- * Created by sherry on 2018/4/4.
+ * Created by lhrotk on 2018/4/4.
  */
 
 public class EventAdaptor extends ArrayAdapter<GpsEventList> {

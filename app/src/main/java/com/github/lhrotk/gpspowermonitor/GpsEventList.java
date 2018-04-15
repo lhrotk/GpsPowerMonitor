@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 /**
- * Created by sherry on 2018/4/4.
+ * Created by lhrotk on 2018/4/4.
  */
 
 public class GpsEventList {

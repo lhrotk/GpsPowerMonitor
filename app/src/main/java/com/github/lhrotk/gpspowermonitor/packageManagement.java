@@ -10,7 +10,7 @@ import android.graphics.drawable.Drawable;
 import java.util.List;
 
 /**
- * Created by sherry on 2018/4/1.
+ * Created by lhrotk on 2018/4/1.
  */
 
 public class packageManagement {
